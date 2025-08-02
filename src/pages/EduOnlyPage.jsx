@@ -268,6 +268,7 @@ const EduOnlyPage = () => {
                 <a href="https://rocketr.net/buy/891d333d4d77" target="_blank" rel="noopener noreferrer">
                   <Button className="w-full">Buy Now ($65)</Button>
                 </a>
+                <p className="text-sm text-gray-600 mt-2">Get 15% off if you buy with Bitcoin (faster and cheaper fees)</p>
               </CardContent>
             </Card>
           </div>
