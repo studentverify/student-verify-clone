@@ -251,7 +251,7 @@ const EduOnlyPage = () => {
                 <p className="text-sm text-gray-600 mb-4">
                   Only choose this if you understand the limitations and still want to proceed.
                 </p>
-                <a href="https://fastdiscountfinder.com/payment.html" target="_blank" rel="noopener noreferrer">
+                <a href="https://rocketr.net/buy/d27d7b0672da" target="_blank" rel="noopener noreferrer">
                   <Button className="w-full">Buy Now ($37)</Button>
                 </a></CardContent>
             </Card>
@@ -265,7 +265,7 @@ const EduOnlyPage = () => {
                 <p className="text-sm text-gray-600 mb-4">
                   Get access to ALL discounts with our professional SheerID verification service.
                 </p>
-                <a href="https://fastdiscountfinder.com/sheerid.html" target="_blank" rel="noopener noreferrer">
+                <a href="https://rocketr.net/buy/891d333d4d77" target="_blank" rel="noopener noreferrer">
                   <Button className="w-full">Buy Now ($65)</Button>
                 </a>
               </CardContent>

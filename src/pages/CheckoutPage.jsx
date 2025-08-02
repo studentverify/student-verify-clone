@@ -85,7 +85,7 @@ const CheckoutPage = () => {
                       <span>Valid for 12+ months</span>
                     </div>
                   </div>
-                  <a href="https://fastdiscountfinder.com/sheerid.html" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rocketr.net/buy/891d333d4d77" target="_blank" rel="noopener noreferrer">
                     <Button className="w-full">Buy Now ($65)</Button>
                   </a>
                 </div>
@@ -122,7 +122,7 @@ const CheckoutPage = () => {
                       <span>May not work with newer discount platforms</span>
                     </div>
                   </div>
-                  <a href="https://fastdiscountfinder.com/payment.html" target="_blank" rel="noopener noreferrer">
+                  <a href="https://rocketr.net/buy/d27d7b0672da" target="_blank" rel="noopener noreferrer">
                     <Button className="w-full">Buy Now ($37)</Button>
                   </a>
                   <div className="mb-4">
