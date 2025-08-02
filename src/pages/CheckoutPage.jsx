@@ -143,7 +143,7 @@ const CheckoutPage = () => {
                     <li>• We accept any email address (no .edu required for verification)</li>
                     <li>• 100% money-back guarantee if verification fails</li>
                     <li>• Support available at sheeredudeals@gmail.com</li>
-                    <li>• Get 15% off if you buy with Bitcoin (faster and cheaper fees)</li>
+                    <li>Get 15% off if you buy with Bitcoin (faster and cheaper fees)</li>
                   </ul>
                 </div>
               </CardContent>

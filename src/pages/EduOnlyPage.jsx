@@ -84,7 +84,7 @@ const EduOnlyPage = () => {
               <CardHeader>
                 <CardTitle className="flex items-center space-x-2">
                   <CheckCircle className="h-5 w-5 text-green-600" />
-                  <span>Complete Verification ($55)</span>
+                  <span>Complete Verification ($65)</span>
                 </CardTitle>
                 <CardDescription>Recommended - Full access guaranteed</CardDescription>
               </CardHeader>
@@ -128,7 +128,7 @@ const EduOnlyPage = () => {
                     <tr className="border-b">
                       <th className="text-left py-3 px-4">Feature</th>
                       <th className="text-center py-3 px-4 text-yellow-600">EDU Only ($37)</th>
-                      <th className="text-center py-3 px-4 text-green-600">Complete ($55)</th>
+                      <th className="text-center py-3 px-4 text-green-600">Complete ($65)</th>
                     </tr>
                   </thead>
                   <tbody className="space-y-2">
@@ -259,7 +259,7 @@ const EduOnlyPage = () => {
             <Card className="border-green-200 bg-green-50">
               <CardHeader>
                 <CardTitle className="text-green-700">Complete Verification (Recommended)</CardTitle>
-                <CardDescription>Full access guaranteed - $55</CardDescription>
+                <CardDescription>Full access guaranteed - $65</CardDescription>
               </CardHeader>
               <CardContent className="text-center">
                 <p className="text-sm text-gray-600 mb-4">
