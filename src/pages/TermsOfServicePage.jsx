@@ -13,7 +13,7 @@ const TermsOfServicePage = () => {
           
           <h2 className="text-2xl font-semibold text-gray-800">1. Service Description</h2>
           <p className="text-gray-600">
-            StudentVerify provides a service to assist individuals in obtaining SheerID student discount verifications. We use proprietary methods to facilitate this process, even if you do not meet traditional student criteria. Our service is provided for a one-time fee of $55 per successful verification.
+            StudentVerify provides a service to assist individuals in obtaining SheerID student discount verifications. We use proprietary methods to facilitate this process, even if you do not meet traditional student criteria. Our service is provided for a one-time fee of $65 per successful verification.
           </p>
 
           <h2 className="text-2xl font-semibold text-gray-800">2. Eligibility</h2>
@@ -23,7 +23,7 @@ const TermsOfServicePage = () => {
 
           <h2 className="text-2xl font-semibold text-gray-800">3. Payment and Refunds</h2>
           <p className="text-gray-600">
-            Our fee is $55 per successful verification. We accept payments via Venmo, PayPal, and Stripe. Please refer to our <a href="/refund-policy" className="text-blue-600 hover:underline">Refund Policy</a> for details on our refund process.
+            Our fee is $65 per successful verification. We accept payments via Venmo, PayPal, and Stripe. Please refer to our <a href="/refund-policy" className="text-blue-600 hover:underline">Refund Policy</a> for details on our refund process.
           </p>
 
           <h2 className="text-2xl font-semibold text-gray-800">4. User Responsibilities</h2>

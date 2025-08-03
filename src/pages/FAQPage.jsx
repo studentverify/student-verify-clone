@@ -18,7 +18,7 @@ const FAQPage = () => {
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">How much does your service cost?</h2>
             <p className="text-gray-600">
-              We charge a one-time fee of $55 for each successful verification. This fee covers our service to help you access the discount.
+              $65
             </p>
           </div>
 

@@ -13,7 +13,7 @@ const RefundPolicyPage = () => {
           
           <h2 className="text-2xl font-semibold text-gray-800">1. 100% Success Guarantee</h2>
           <p className="text-gray-600">
-            We guarantee that we will successfully verify you for the student discount you are seeking through our service. If, for any reason, we are unable to complete the verification process successfully for the specific deal you paid for, you are entitled to a full refund of the $55 service fee.
+            We guarantee that we will successfully verify you for the student discount you are seeking through our service. If, for any reason, we are unable to complete the verification process successfully for the specific deal you paid for, you are entitled to a full refund of the $65 service fee.
           </p>
 
           <h2 className="text-2xl font-semibold text-gray-800">2. Eligibility for Refund</h2>
